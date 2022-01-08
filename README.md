@@ -1,2 +1,2 @@
-# zadaniaPython
-Korepetycje Python
+# exercisesPython
+Private Lessons Python
